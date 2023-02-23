@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Blue">#5D9CEC</color>
+    <color name="dark_blue">#1467D1</color>
+    <color name="navy">#060E1E</color>
+    <color name="meint_green">#C9F8BA</color>
+    <color name="grren">#61E757</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#EC4B4B</color>
+    <color name="screen_background">#00093E</color>
+    <color name="tool_bar_background">#035BF4</color>
+
+
+</resources>
